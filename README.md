@@ -1,2 +1,3 @@
-# williamdanielgame.github.io
+# William Daniel: The Game
+
 A platformer game starring William Daniel
